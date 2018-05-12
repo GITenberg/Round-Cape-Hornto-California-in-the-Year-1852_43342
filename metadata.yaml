@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42145'
     url: http://www.gutenberg.org/2009/agents/42145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43342#Round-Cape-Hornto-California-in-the-Year-1852
 gutenberg_issued: '2013-07-28'
 gutenberg_type: Text
 identifiers:
