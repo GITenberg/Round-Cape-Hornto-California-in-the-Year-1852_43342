@@ -1,0 +1,31 @@
+_repo: Round-Cape-Hornto-California-in-the-Year-1852_43342
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamson, J. (Joseph)
+    alias: Lamson, Joseph
+    gutenberg_agent_id: '42145'
+    url: http://www.gutenberg.org/2009/agents/42145
+description: ''
+gutenberg_issued: '2013-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43342'
+  lccn: 05022659
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Social life and customs'
+- !lcsh 'James W. Paige (Ship)'
+- !lcc 'F850.5'
+- !lcsh 'Voyages to the Pacific coast'
+- !lcsh 'Voyages and travels'
+- !lcsh 'Lamson, J. (Joseph) -- Travel'
+title: "Round Cape Horn\r\nVoyage of the Passenger-Ship James W. Paige, from Maine\
+  \ to California in the Year 1852"
+url: http://www.gutenberg.org/ebooks/43342
